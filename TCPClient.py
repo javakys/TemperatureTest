@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# Implemented by James YS Kim
+
 import socket
 import time
 import struct
